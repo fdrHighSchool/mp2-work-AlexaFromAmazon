@@ -30,7 +30,9 @@ class Main {
       } else {
         gradeSym = "";
       } // determine letter grade
-      if(grade >= 90) {
+      if(grade == 100) {
+        finalGrade += "A+";
+      } else if(grade >= 90) {
         finalGrade += "A";
       } else if(grade >= 80 && grade < 90) {
         finalGrade += "B";
