@@ -2,9 +2,9 @@
 ## fall22-mp2-work
 
 
-### Last Name:  
-### First Name:
-### GitHub Username:
+### Last Name: Mei
+### First Name: Alex
+### GitHub Username: AlexaFromAmazon
 
 ---
 #### General Workflow:
